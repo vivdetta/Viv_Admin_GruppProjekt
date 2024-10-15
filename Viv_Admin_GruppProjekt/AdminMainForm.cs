@@ -77,7 +77,7 @@ namespace Viv_Admin_GruppProjekt
                     foreach (var recept in orderedSearchRecepts)
 
                     {
-                        listBoxSearchResults.Items.Add($"{recept.Name}, {recept.TypeOfRecept}");
+                        listBoxSearchResults.Items.Add($"Name: {recept.Name} | Type of Receipt:{recept.TypeOfRecept}");
                     }
                 }
                 else
