@@ -1,0 +1,362 @@
+[
+  {
+    "Id": "fb218b8d-37da-460c-aa8d-62c50ceb7a3c",
+    "Name": "Kycklinggryta",
+    "Description": "En god kycklinggryta med smak av vitl\u00F6k och \u00F6rter.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "fa293994-bb98-4e24-85f8-1c58c7e8504f",
+    "Name": "Lax med citrons\u00E5s",
+    "Description": "Ugnsbakad lax serverad med en kr\u00E4mig citrons\u00E5s.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "b75fbf1e-af44-407e-a32b-569f4fe256e0",
+    "Name": "Caesarsallad",
+    "Description": "Fr\u00E4sch sallad med krispiga krutonger och parmesanost.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "0d55a61c-53a7-4ab6-84df-692af3a1873c",
+    "Name": "Tomatsoppa",
+    "Description": "En klassisk tomatsoppa toppad med f\u00E4rsk basilika.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "b8575cae-0c47-42c2-b4c8-c1b79d8c664b",
+    "Name": "Chokladkaka",
+    "Description": "Saftig chokladkaka med en len glasyr.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "b98e8640-ab65-4442-9433-61150f522a45",
+    "Name": "Oxfil\u00E9 med svamps\u00E5s",
+    "Description": "Oxfil\u00E9 serverad med en kr\u00E4mig svamps\u00E5s och ugnsbakade potatisar.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "5cb370a6-0871-4713-b4ac-5f03be438803",
+    "Name": "Stekt torsk",
+    "Description": "Stekt torsk med potatis och \u00E4rtor.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "16103f89-7882-4d02-b58c-201dd176b00c",
+    "Name": "Grekisk sallad",
+    "Description": "En traditionell grekisk sallad med fetaost och oliver.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "6e481c2e-70d0-4ebb-93a3-01594871659e",
+    "Name": "Gr\u00F6nsakssoppa",
+    "Description": "En v\u00E4rmande soppa gjord p\u00E5 f\u00E4rska gr\u00F6nsaker.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "655444f4-d44f-44f1-86ac-5cf17d756ecd",
+    "Name": "Kanelbullar",
+    "Description": "Svenska klassiska kanelbullar, perfekt till fika.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "d004ce5a-e2ef-4f4a-b7fb-542578ca0f25",
+    "Name": "Biff Stroganoff",
+    "Description": "K\u00F6ttgryta med n\u00F6tk\u00F6tt, l\u00F6k och en gr\u00E4ddig tomats\u00E5s.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "6ed66cd2-b60c-472c-b9ff-cbb8ce5c97ea",
+    "Name": "Grillad lax",
+    "Description": "Grillad lax med sparris och hollandaises\u00E5s.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "c46293b5-b34d-49a7-a154-bf2bbf5a1c6e",
+    "Name": "Quinoasallad",
+    "Description": "Fr\u00E4sch sallad med quinoa, gr\u00F6nsaker och dressing.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "c3bcb84c-278a-4bed-894b-1831ce44318e",
+    "Name": "Linsoppa",
+    "Description": "En m\u00E4ttande soppa med r\u00F6da linser och gr\u00F6nsaker.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "38867eed-6ccd-4109-86d3-72108e0d2253",
+    "Name": "\u00C4ppelpaj",
+    "Description": "Smulpaj med \u00E4pplen och kanel, serveras med vaniljs\u00E5s.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "06bb2833-aeb8-4adb-b390-a92bd55a73df",
+    "Name": "Fl\u00E4skfil\u00E9gryta",
+    "Description": "En smakrik gryta med fl\u00E4skfil\u00E9 och dijonsenap.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "ae3ebbb0-22f3-48a0-8949-0a65a6374ede",
+    "Name": "Fiskgrat\u00E4ng",
+    "Description": "Fiskgrat\u00E4ng med potatismos och dills\u00E5s.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "ec2464a1-9a8c-44b3-a583-9826984371fb",
+    "Name": "R\u00F6dbetssallad",
+    "Description": "En f\u00E4rgstark sallad med kokta r\u00F6dbetor och ch\u00E8vre.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "1376c166-a621-4d37-b25a-b9ba2d90b58a",
+    "Name": "Broccolisoppa",
+    "Description": "Kr\u00E4mig soppa med broccoli och cr\u00E8me fra\u00EEche.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "83e4f0ff-9e45-462f-afbb-a19dd0b1a714",
+    "Name": "Kladdkaka",
+    "Description": "En kladdig chokladkaka serverad med gr\u00E4dde.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "41c17fb9-92b8-4070-80a6-cb7ec1061b1c",
+    "Name": "Kalops",
+    "Description": "Klassisk svensk k\u00F6ttgryta med n\u00F6tk\u00F6tt och lagerblad.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "5d86a73c-5d48-400f-89c9-aa3d2a12b595",
+    "Name": "Skaldjurspasta",
+    "Description": "Pasta med en kr\u00E4mig s\u00E5s och blandade skaldjur.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "66a3f8af-6d7f-4f74-a6c0-f7c920be4792",
+    "Name": "Pastasallad",
+    "Description": "En enkel och god pastasallad med f\u00E4rska gr\u00F6nsaker.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "7e645650-0c20-4fec-8b07-aac6b214264c",
+    "Name": "Gulaschsoppa",
+    "Description": "Mustig gulaschsoppa med paprika och n\u00F6tk\u00F6tt.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "9f937c7d-4246-4325-8d39-d22b1ff484b7",
+    "Name": "Pepparkakor",
+    "Description": "Krispiga pepparkakor, perfekt till julen.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "40460858-64af-4b85-ac21-88aada94fedf",
+    "Name": "Lammstek",
+    "Description": "Lammstek med vitl\u00F6k och rosmarin.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "8a23088a-b9dd-4b77-9fff-22acab6a6464",
+    "Name": "Grillad torsk",
+    "Description": "Grillad torsk med citron och dill.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "ae8baeec-c827-4d69-861d-d86995804f2f",
+    "Name": "Rucolasallad",
+    "Description": "Fr\u00E4sch rucolasallad med valn\u00F6tter och balsamvin\u00E4ger.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "e00dd4c9-c87b-4ab5-9f59-548ff4152c90",
+    "Name": "Spenatsoppa",
+    "Description": "En nyttig soppa gjord p\u00E5 f\u00E4rsk spenat.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "f195cb26-8cd7-4c74-88fd-45eb78b0b492",
+    "Name": "Morotskaka",
+    "Description": "Saftig morotskaka med cream cheese-frosting.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "acf2865d-995a-4075-8672-5c22a2e39270",
+    "Name": "K\u00F6ttbullar",
+    "Description": "Svenska k\u00F6ttbullar med potatismos och lingonsylt.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "a8312d51-43d2-4a35-9346-9e927c7bfd2d",
+    "Name": "Fiskburgare",
+    "Description": "Hemgjord fiskburgare med remoulads\u00E5s.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "f3996e71-d384-4a4e-97f8-0a6d70c191d4",
+    "Name": "Bulgursallad",
+    "Description": "Sallad med bulgur, fetaost och soltorkade tomater.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "b43a19ed-0521-4742-a8ed-1e2056876849",
+    "Name": "Kycklingsoppa",
+    "Description": "En m\u00E4ttande soppa med kyckling och nudlar.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "c5c00946-5ac4-4b63-af9c-b20299364174",
+    "Name": "Pannkakor",
+    "Description": "Tunna svenska pannkakor serverade med sylt och gr\u00E4dde.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "1323ec44-d204-43dd-a936-c1754c791961",
+    "Name": "Korv Stroganoff",
+    "Description": "Klassisk svensk r\u00E4tt med falukorv i tomats\u00E5s.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "bb016bc3-b0a2-42ac-b2a7-5329da3735b5",
+    "Name": "Grillad lax med sparris",
+    "Description": "Grillad lax serverad med \u00E5ngkokt sparris.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "dab747c5-8beb-442c-99f1-a4fc2e65b55e",
+    "Name": "Sommarsallad",
+    "Description": "En l\u00E4tt sommarsallad med jordgubbar och spenat.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "d01a5b75-3b32-4104-a133-baaf3eaa8847",
+    "Name": "Potatissoppa",
+    "Description": "Kr\u00E4mig potatissoppa med purjol\u00F6k och gr\u00E4dde.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "8f64778b-52bf-4064-835c-b4de30882fcd",
+    "Name": "Brownies",
+    "Description": "Chokladbrownies med n\u00F6tter och chokladbitar.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "0454e24e-3048-40b7-809c-1f9806add528",
+    "Name": "K\u00F6ttgryta med rotfrukter",
+    "Description": "N\u00F6tk\u00F6ttsgryta med rotfrukter och r\u00F6dvin.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "2db5444e-4a07-4998-80fa-f754bae4525b",
+    "Name": "Fish and chips",
+    "Description": "Friterad fisk med pommes frites och remoulads\u00E5s.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "b7d23bd7-38c0-4499-bf0f-93d71378d3e1",
+    "Name": "Vietnamesisk sallad",
+    "Description": "En frisk sallad med risnudlar, lime och mynta.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "ef130e92-f93a-461c-8f69-38ce48666cce",
+    "Name": "Pumpasoppa",
+    "Description": "En v\u00E4rmande soppa gjord p\u00E5 pumpa och kryddor.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "7763e68c-1400-47e0-b684-6b327f2a0c0e",
+    "Name": "Vaniljmuffins",
+    "Description": "Luftiga vaniljmuffins med socker p\u00E5 toppen.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "b6945ec0-e890-424d-a66c-ed41179e42e1",
+    "Name": "Revbensspj\u00E4ll",
+    "Description": "Grillade revbensspj\u00E4ll med en s\u00F6t och kryddig glaze.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "7e6099b8-57b7-4f91-8d2d-b7555121966b",
+    "Name": "Torsk med vitvinss\u00E5s",
+    "Description": "Ugnsbakad torsk serverad med en vitvinss\u00E5s.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "8242f650-7910-4972-9448-9ec1d328dc4d",
+    "Name": "Halloumisallad",
+    "Description": "En sallad med grillad halloumi och granat\u00E4pple.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "677f2cf0-ad70-4bc0-b730-727ab8b58bb8",
+    "Name": "Champinjonsoppa",
+    "Description": "Kr\u00E4mig champinjonsoppa med vitl\u00F6k och persilja.",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "e103b5b4-97ed-4d50-b679-d7da98bc31df",
+    "Name": "Bl\u00E5b\u00E4rspaj",
+    "Description": "Smulpaj med bl\u00E5b\u00E4r, serverad med vaniljs\u00E5s.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "846b3dfa-c9c4-4bef-ba17-470e8813ffd4",
+    "Name": "Hamburgare",
+    "Description": "Hemlagad hamburgare med ost och dressing.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "239e6d19-7c7b-46c4-8bbf-ac3267ab9110",
+    "Name": "Panerad torsk",
+    "Description": "Panerad torsk serverad med kokt potatis och gr\u00F6na \u00E4rtor.",
+    "TypeOfRecept": "Fisk"
+  },
+  {
+    "Id": "ab1bafaf-a10b-4c44-bafd-d4c326dbd322",
+    "Name": "F\u00E4rskpotatissallad",
+    "Description": "En frisk sallad med f\u00E4rskpotatis och \u00F6rtdressing.",
+    "TypeOfRecept": "Sallader"
+  },
+  {
+    "Id": "3f06ffd1-cee6-41c5-a15c-0f3042d4ff61",
+    "Name": "Mazarin",
+    "Description": "Svensk mandelbakelse med glasyr.",
+    "TypeOfRecept": "Desserter/Kakor"
+  },
+  {
+    "Id": "6b8a1153-875d-4d35-a99c-034105ead61f",
+    "Name": "Rogan Josh",
+    "Description": "9 out of 10 Spice",
+    "TypeOfRecept": "Indian"
+  },
+  {
+    "Id": "cabe6cd9-f2ed-4958-9495-6e9b068ec1b4",
+    "Name": "apples",
+    "Description": "a strange soup",
+    "TypeOfRecept": "Soppor"
+  },
+  {
+    "Id": "5c0d6810-3600-40ab-9d4e-b825f763c8ac",
+    "Name": "Korv med brod",
+    "Description": "Some tasty korv",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "b5b5c18b-c4b1-48a3-956f-9d1519795625",
+    "Name": "Meat Pie",
+    "Description": "This is a classic meat pie. Its very Australian. Updated baby.",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "d9aae02c-d385-4707-80fb-53c01bf53313",
+    "Name": "Chicken and rice",
+    "Description": "Its just a bunch of chicken and rice. Change?",
+    "TypeOfRecept": "K\u00F6tt"
+  },
+  {
+    "Id": "8f7ef487-5193-404a-b388-1e16be3b7a7e",
+    "Name": "New Receipt",
+    "Description": "a test to see if the ID numbers change",
+    "TypeOfRecept": "Fisk"
+  }
+]
