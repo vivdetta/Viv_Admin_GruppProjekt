@@ -77,11 +77,18 @@ namespace Viv_Admin_GruppProjekt.Services
 
         public Recept FromStringToObject(string searchChoice)
         {
-            var splitString = searchChoice.Split(',');
+            var splitString = searchChoice.Split('|');
             if (splitString.Length == 2)
             {
-                string name = splitString[0].Trim();
-                string type = splitString[1].Trim();
+                string namePart = splitString[0].Trim();
+                string typePart = splitString[1].Trim();
+
+                // Extract the name (removing the "Name: " prefix)
+                string name = namePart.Replace("Name: ", "").Trim();
+
+                // Extract the type (removing the "Type of Receipt: " prefix)
+                string type = typePart.Replace("Type of Receipt:", "").Trim();
+
                 return _receipts.FirstOrDefault(recept => recept.Name == name && recept.TypeOfRecept == type);
             }
             return null;

@@ -129,7 +129,7 @@ namespace Viv_Admin_GruppProjekt
             listBoxSearchResults.Items.Clear(); // Clear existing items to avoid duplication
             foreach (var recept in orderedRecepts)
             {
-                listBoxSearchResults.Items.Add($"{recept.Name},{recept.TypeOfRecept}");
+                listBoxSearchResults.Items.Add($"Name: {recept.Name} | Type of Receipt:{recept.TypeOfRecept}");
             }
         }
 
